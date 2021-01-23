@@ -1,5 +1,6 @@
 package com.colagom
 
+import com.colagom.stocker.module
 import io.ktor.application.*
 import io.ktor.response.*
 import io.ktor.request.*
